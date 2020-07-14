@@ -9,4 +9,4 @@ The code for our paper **Multi-label Contrative Focal Loss for Pedestrian attrib
 - PA100K
 - PETA
 # Performance Comparision
-![image]()
+![image](https://github.com/zxqsmall/MCFL-master/blob/master/RAP-results.png)
